@@ -27,3 +27,5 @@ Eu sou Elias! Estudante de Engenharia de Software e entusiasta de tecnologia, so
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasFhub&show_icons=true&theme=dracula&include_all_commits=true&count_private=tre"/>
 </div>
+
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
