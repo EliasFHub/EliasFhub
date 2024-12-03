@@ -2,8 +2,6 @@
 
 Eu sou Elias! Estudante de Engenharia de Software e entusiasta de tecnologia, sou apaixonado por programação e por explorar o impacto que ela pode ter no mundo. Estou sempre em busca de novos desafios e aprendizados para transformar ideias em soluções inovadoras!
 
-<br>
-
 # 💻 Tech
 <div style="display: inline_block"><br>
   <img align="center" alt="Elias-Python" height="35" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
